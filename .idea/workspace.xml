@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="765">
-                <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <first_editor relative-caret-position="640">
+                <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -148,12 +150,12 @@
       <workItem from="1565757856258" duration="368000" />
       <workItem from="1565758321662" duration="274000" />
       <workItem from="1565762643565" duration="827000" />
-      <workItem from="1565764124318" duration="4146000" />
+      <workItem from="1565764124318" duration="4421000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5615000" />
+    <option name="totallyTimeSpent" value="5890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,8 +230,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="765">
-            <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <first_editor relative-caret-position="640">
+            <caret line="59" column="18" selection-start-line="59" selection-start-column="18" selection-end-line="59" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
