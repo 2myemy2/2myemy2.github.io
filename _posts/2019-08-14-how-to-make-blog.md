@@ -1,5 +1,5 @@
 ---
-title: "Jekyll로 블로그 만들기 (minimal mistakes)"
+title: "Jekyll로 초간단! 블로그 만들기 (minimal mistakes)"
 date: 2019-03-13 08:26:28 -0400
 categories: jekyll
 ---
@@ -54,12 +54,14 @@ categories: jekyll
             그런 후에 _config.yml파일에 이 문장을 추가해주자.<br/>
         </small>
     </p>
-    <pre>remote_theme : mmistakes/minimal-mistakes </pre>
+    <pre><small>remote_theme : mmistakes/minimal-mistakes </small></pre>
     <p><small>그리고 <pre>url : "https://YOURNAME.github.io"</pre> 로 바꾸어 준다</small><br/></p>
     <img src="https://user-images.githubusercontent.com/49894861/63001477-a8609680-beae-11e9-9591-63775dc52401.png" />
     <h3><br/><br/>5. index.html 파일 추가하기</h3><br/>
     <p><small>이제 minimal mistakes 저장소에서 index.html파일을 내 저장소에 그대로 복붙해온다</small></p>
     <img src="https://user-images.githubusercontent.com/49894861/63000565-6afb0980-beac-11e9-8ae7-8f523d94e5ae.png" />
-    <p><small>그런 다음, https://YOURNAME.github.io로 들어가서 확인해보면 블로그가 생성되어 있을 것 이다!</small></p>
+    <p><small>그런 다음, https://YOURNAME.github.io로 들어가서 확인해보면 블로그가 생성되어 있을 것 이다!<br/>
+        블로그에 포스팅하는 방법이나, 메뉴(navigation)를 만드는 방법은 다음 게시물에 포스팅 할 예정입니다! :)
+    </small></p>
 
 </div>
