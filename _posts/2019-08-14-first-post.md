@@ -1,7 +1,13 @@
 ---
 title: "First post!"
-date: 2019-08-13 08:26:28 -0400
+date: 2019-03-13 08:26:28 -0400
 categories: first
 ---
 
-first post!
+first post!!
+
+
+
+미루고 미뤄왔던 개발블로그
+
+드디어 만들어버렸다
