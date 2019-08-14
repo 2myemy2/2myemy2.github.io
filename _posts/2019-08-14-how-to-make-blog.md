@@ -1,0 +1,20 @@
+---
+title: "Jekyll로 블로그 만들기"
+date: 2019-03-13 08:26:28 -0400
+categories: jekyll
+---
+
+<div>
+<p> ahaha 
+미뤄왔던 블로그를 만들었다! 
+
+Jekyll로 만들면 10분도 안걸리는 것을...이렇게 질질 끌어오다니!
+
+이제부터라도 성실하게! 포스팅하자!
+
+
+
+먼저, [Githup](https://github.com) 계정을 만들어보자!
+
+</p>
+</div>
