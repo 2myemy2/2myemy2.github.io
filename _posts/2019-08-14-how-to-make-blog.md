@@ -22,8 +22,23 @@ categories: jekyll
     <a href="http://jekyllthemes.org/">http://jekyllthemes.org/</a> <br/>이 곳에서 테마를 고를 수 있다.
     나는 minimal mistake로 하기로 했다.<br/>
     문서도 보기쉽게 정리되어 있고, 무엇보다 가장 큰 이유는 ....<br/>
-    <a>https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html</a>
-    이렇게 지킬로 블로그를 만드는 정말 초!간!단!한 방법을 포스팅해주셨기 때문!
-    </p>
+    <a href="https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html">https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html</a><br/>
+    이렇게 지킬로 블로그를 만드는 정말 초!간!단!한 방법을 포스팅해주셨기 때문!<br/>
+    <small>(사실 이 포스팅을 보기 전엔 ruby설치하고 난리났었다...)</small><br/><br/><br/>
     
+    이제 minimal-mistakes theme 저장소(repository)로 들어간다<br/>
+    <a href="https://github.com/mmistakes/minimal-mistakes"> https://github.com/mmistakes/minimal-mistakes </a>
+    </p>
+    <img src="https://user-images.githubusercontent.com/49894861/63000547-659dbf00-beac-11e9-8fb8-eaaf79ac2b65.png" />
+    <p><small>다음과 같은 창이 뜰 것 이다!</small><br/>
+    _config.yml 파일을 열어보자<br/>
+    </p>
+    <img src="https://user-images.githubusercontent.com/49894861/63000560-69314600-beac-11e9-9b6e-b0f08a751d59.png" />
+    <p>이 파일을 내 repository에 베껴올 것 이다. <br/>
+    내 repository(저장소)에도 똑같은 이름의 파일을 생성해주고, minimal mistake 저장소에서 베껴온 _config.yml을 그대로 복붙해준다<br><br><br>
+    그런 후에 _config.yml파일에 이 문장을 추가해주자.<br/>
+    </p>
+    <pre>remote_theme : mmistakes/minimal-mistakes </pre>
+    <p> 그리고 <pre>url : "https://YOURNAME.github.io"</pre> 로 바꾸어 준다<br></p>
+    <img src="https://user-images.githubusercontent.com/49894861/63001477-a8609680-beae-11e9-9591-63775dc52401.png" />
 </div>
