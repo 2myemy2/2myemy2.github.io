@@ -60,8 +60,8 @@ categories: jekyll
     <h3><br/><br/>5. index.html 파일 추가하기</h3><br/>
     <p><small>이제 minimal mistakes 저장소에서 index.html파일을 내 저장소에 그대로 복붙해온다</small></p>
     <img src="https://user-images.githubusercontent.com/49894861/63000565-6afb0980-beac-11e9-8ae7-8f523d94e5ae.png" />
-    <p><small>그런 다음, https://YOURNAME.github.io로 들어가서 확인해보면 블로그가 생성되어 있을 것 이다!<br/>
-        블로그에 포스팅하는 방법이나, 메뉴(navigation)를 만드는 방법은 다음 게시물에 포스팅 할 예정입니다! :)
+    <p><small>그런 다음, https://YOURNAME.github.io로 들어가서 확인해보면<br/> 블로그가 생성되어 있을 것 이다!<br/>
+        블로그에 포스팅하는 방법이나, 메뉴(navigation)를 만드는 방법은<br/> 다음 게시물에 포스팅 할 예정입니다! :)
     </small></p>
 
 </div>
