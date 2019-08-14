@@ -1,3 +1,5 @@
 main:
-  - title: "My Profile"
+  - title: "Profile"
     url: /my-profile/
+  - title: "Travels"
+    url: /my-travels/
