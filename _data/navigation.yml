@@ -1,5 +1,5 @@
 main:
   - title: "Profile"
     url: /my-profile/
-  - title: "Travel Note"
+  - title: "Travel Records"
     url: /my-travels/
