@@ -34,10 +34,13 @@ author_profile: true
       <div class="questions">
         <img src="https://user-images.githubusercontent.com/49894861/63134809-1370b100-c006-11e9-84df-d2702a7fd944.png" />
       </div>
-      <div class="code">
-        {% highlight bash %}
+      {% highlight bash %}
 cd ~
 {% endhighlight %}
+      {% highlight cpp %}
+{_code}
+{% endhighlight %}
+      <div class="code">
         <code><small>
           #include &lt;cstdio&gt;<br><br>
           int main() {<br>
@@ -60,6 +63,12 @@ cd ~
   </div>
 
 <script type="text/javascript">
+var _code = "#include < cstdio >" +
+  "int main() {" +
+  " int a;" +
+  " printf(\"test\");" +
+  " return 0;" +
+  "}";
 var elements = document.getElementsByTagName("div");
 // 모든 영역 접기
 for (var i = 0; i < elements.length; i++) {
