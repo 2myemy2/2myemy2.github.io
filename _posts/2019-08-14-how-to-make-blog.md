@@ -36,7 +36,7 @@ categories: jekyll
             문서도 보기쉽게 정리되어 있고, 무엇보다 가장 큰 이유는 ....<br/>
             <a href="https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html">https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html</a><br/>
             이렇게 지킬로 블로그를 만드는 정말 초!간!단!한 방법을 포스팅해주셨기 때문!<br/>
-            <small>(사실 이 포스팅을 보기 전엔 ruby설치하고 난리났었다...)</small><br/><br/><br/>
+            <small>(사실 이 포스팅을 보기 전엔 ruby설치하고 난리났었다...물론 나중에는 ruby가 필요할수도 있겠지만...)</small><br/><br/><br/>
             이제 minimal-mistakes theme 저장소(repository)로 들어간다<br/>
             <a href="https://github.com/mmistakes/minimal-mistakes"> https://github.com/mmistakes/minimal-mistakes </a>
         </small>
