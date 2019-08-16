@@ -96,8 +96,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <first_editor relative-caret-position="120">
+                <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -135,8 +135,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2499" />
-    <option name="y" value="325" />
+    <option name="x" value="2500" />
+    <option name="y" value="324" />
     <option name="width" value="1717" />
     <option name="height" value="1080" />
   </component>
@@ -210,12 +210,12 @@
       <workItem from="1565764124318" duration="5049000" />
       <workItem from="1565912721244" duration="3423000" />
       <workItem from="1565919900869" duration="894000" />
-      <workItem from="1565921889157" duration="2624000" />
+      <workItem from="1565921889157" duration="2918000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13459000" />
+    <option name="totallyTimeSpent" value="13753000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,7 +227,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2499" y="325" width="1717" height="1080" extended-state="0" />
+    <frame x="2500" y="324" width="1717" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.26810294" />
@@ -321,8 +321,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>

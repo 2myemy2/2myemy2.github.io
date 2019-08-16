@@ -7,7 +7,7 @@ categories: jekyll
 오늘은 Jekyll 블로그에 포스팅하는 법!
 
 
-###1. Create new file
+<h3>1. Create new file</h3>
 
 
 먼저, 내 github의 블로그 repository 에 들어가서 create new file 버튼을 누릅시다
@@ -16,13 +16,13 @@ categories: jekyll
 ![createNewFile](https://user-images.githubusercontent.com/49894861/63139203-66ebfa80-c018-11e9-93e2-e03fed13b446.png)
 
 
-###2. Post title
+<h3>2. Post title</h3>
 
 
 file name 적는 칸에, posts/Postfile을 적어준다.
 
 
-######posts/라고 쓰면 posts 폴더 안에 파일이 생성된다 
+<h6>posts/라고 쓰면 posts 폴더 안에 파일이 생성된다 </h6> 
 
 
 보통 Post title은 year-month-day-postTitle.md로 생성한다.
@@ -31,7 +31,7 @@ file name 적는 칸에, posts/Postfile을 적어준다.
 ![filename](https://user-images.githubusercontent.com/49894861/63139414-3a84ae00-c019-11e9-9e05-37f9a9221ab7.png)
 
 
-###3. 포스팅 할 내용 적기
+<h3>3. 포스팅 할 내용 적기</h3>
 
 
 <code><small>---<br/>
@@ -54,7 +54,7 @@ title, date, 그리고 카테고리까지!
 그리고 이렇게 밑에 포스팅 내용을 적어준다.
 
 
-###4. Commit 날리기
+<h3>4. Commit 날리기</h3>
 ![example (1)](https://user-images.githubusercontent.com/49894861/63142587-57bf7980-c025-11e9-8b0d-19cbe9310096.png)
 
 
