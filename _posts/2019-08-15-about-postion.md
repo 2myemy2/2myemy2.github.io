@@ -4,9 +4,6 @@ date: 2019-03-15 08:26:28 -0400
 categories: jekyll
 ---
 
-
-
-
 오늘은 Jekyll 블로그에 포스팅하는 법!
 
 
