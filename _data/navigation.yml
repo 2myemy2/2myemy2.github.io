@@ -3,5 +3,5 @@ main:
     url: /my-profile/
   - title: "Travel Records"
     url: /my-travels/
-  - title: "ACM"
+  - title: "Algorithm"
     url: /acm/
