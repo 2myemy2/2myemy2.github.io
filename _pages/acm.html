@@ -18,10 +18,11 @@ author_profile: true
   padding: 10px;
 }
 .code {
+  border-radius: 15px;
   margin-top: 30px;
   padding: 10px;
   background-color: rgb(52, 52, 53);
-  color: #dcdcdc;
+  color: #e5e5e5;
 }
 </style>
 </head>
@@ -34,11 +35,18 @@ author_profile: true
       <div class="questions">
         <img src="https://user-images.githubusercontent.com/49894861/63134809-1370b100-c006-11e9-84df-d2702a7fd944.png" />
       </div>
-      {% highlight bash %}
-cd ~
-{% endhighlight %}
       {% highlight cpp %}
-{{_code}}
+      int a = 0;
+<script type="text/javascript">
+            var _code = "#include < cstdio >" +
+  "int main() {" +
+  " int a;" +
+  " printf(\"test\");" +
+  " return 0;" +
+  "}";
+            {_code}
+            {{_code}}
+          </script>
 {% endhighlight %}
       <div class="code">
         <code><small>
@@ -50,6 +58,8 @@ cd ~
   " return 0;" +
   "}";
             _code
+            {_code}
+            {{_code}}
           </script>
           #include &lt;cstdio&gt;<br><br>
           int main() {<br>
