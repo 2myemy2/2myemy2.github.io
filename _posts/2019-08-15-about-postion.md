@@ -3,6 +3,10 @@ title: "Jekyll 블로그에 포스팅하기 (minimal mistakes)"
 date: 2019-03-15 08:26:28 -0400
 categories: jekyll
 ---
+
+
+
+
 오늘은 Jekyll 블로그에 포스팅하는 법!
 
 ###1. Create new file
@@ -53,5 +57,9 @@ title, date, 그리고 카테고리까지!
 
 
 잘 올라왔군! :)
+
+
+
+
 
 

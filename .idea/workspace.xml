@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-15-about-postion.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-15-about-postion.md" afterDir="false" />
-    </list>
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="785">
-                <caret line="57" selection-start-line="57" selection-end-line="57" />
+              <first_editor relative-caret-position="860">
+                <caret line="43" column="81" selection-start-line="43" selection-start-column="81" selection-end-line="43" selection-end-column="81" />
               </first_editor>
               <second_editor />
             </state>
@@ -210,12 +208,12 @@
       <workItem from="1565764124318" duration="5049000" />
       <workItem from="1565912721244" duration="3423000" />
       <workItem from="1565919900869" duration="894000" />
-      <workItem from="1565921889157" duration="1942000" />
+      <workItem from="1565921889157" duration="2204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12777000" />
+    <option name="totallyTimeSpent" value="13039000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,8 +319,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="785">
-            <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <first_editor relative-caret-position="860">
+            <caret line="43" column="81" selection-start-line="43" selection-start-column="81" selection-end-line="43" selection-end-column="81" />
           </first_editor>
           <second_editor />
         </state>
