@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Myoung Yeon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://user-images.githubusercontent.com/49894861/63145286-caceed00-c031-11e9-9f4a-81b542f13f66.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "This is **MyoungYeon's** home"
   location         : "Seoul"
   email            :
