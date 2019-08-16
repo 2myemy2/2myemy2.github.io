@@ -50,7 +50,11 @@ title, date, 그리고 카테고리까지!
 그리고 commit을 날려주면 끝!
 
 
-이제 블로그에 들어가 포스팅이 제대로 되었는 확인해본다.지
+이제 블로그에 들어가 포스팅이 제대로 되었는 확인해본다. 
 
+![Screenshot from 2019-08-16 12-59-52](https://user-images.githubusercontent.com/49894861/63142701-c997c300-c025-11e9-891b-403fb31dc9e4.png)
+
+
+잘 올라왔군! :)
 
 
