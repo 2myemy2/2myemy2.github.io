@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_pages/acm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            <state relative-caret-position="245">
+              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <element signature="e#699#703#0" expanded="true" />
                 <element signature="e#709#713#0" expanded="true" />
@@ -199,12 +199,12 @@
       <workItem from="1565758321662" duration="274000" />
       <workItem from="1565762643565" duration="827000" />
       <workItem from="1565764124318" duration="5049000" />
-      <workItem from="1565912721244" duration="2986000" />
+      <workItem from="1565912721244" duration="3246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9504000" />
+    <option name="totallyTimeSpent" value="9764000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -302,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_pages/acm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        <state relative-caret-position="245">
+          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="e#699#703#0" expanded="true" />
             <element signature="e#709#713#0" expanded="true" />
