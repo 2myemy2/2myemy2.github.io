@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "MY's Home"
 title_separator          : "-"
-subtitle                 : This is MyoungYeon's Home# site tagline that appears below site title in masthead
+subtitle                 : "This is MyoungYeon's Home"
 name                     : "MY'S HOME"
 description              : "This is MyoungYeon's home"
 url                      : "https://2myemy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

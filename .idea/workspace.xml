@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" afterDir="false" />
-    </list>
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="51" />
+            <state relative-caret-position="460">
+              <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
             </state>
           </provider>
         </entry>
@@ -213,12 +210,12 @@
       <workItem from="1565930435230" duration="26000" />
       <workItem from="1565930517564" duration="40000" />
       <workItem from="1565930908252" duration="1152000" />
-      <workItem from="1565933093818" duration="408000" />
+      <workItem from="1565933093818" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16766000" />
+    <option name="totallyTimeSpent" value="17007000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,7 +227,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2331" y="231" width="1717" height="1080" extended-state="0" />
+    <frame x="2561" y="310" width="1717" height="1080" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.28246558" />
@@ -336,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="51" />
+        <state relative-caret-position="460">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
         </state>
       </provider>
     </entry>
