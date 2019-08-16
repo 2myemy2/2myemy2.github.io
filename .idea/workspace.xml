@@ -94,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="860">
-                <caret line="43" column="81" selection-start-line="43" selection-start-column="81" selection-end-line="43" selection-end-column="81" />
+              <first_editor relative-caret-position="705">
+                <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
               </first_editor>
               <second_editor />
             </state>
@@ -208,12 +208,12 @@
       <workItem from="1565764124318" duration="5049000" />
       <workItem from="1565912721244" duration="3423000" />
       <workItem from="1565919900869" duration="894000" />
-      <workItem from="1565921889157" duration="2204000" />
+      <workItem from="1565921889157" duration="2546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13039000" />
+    <option name="totallyTimeSpent" value="13381000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -319,8 +319,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-15-about-postion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="860">
-            <caret line="43" column="81" selection-start-line="43" selection-start-column="81" selection-end-line="43" selection-end-column="81" />
+          <first_editor relative-caret-position="705">
+            <caret line="77" lean-forward="true" selection-start-line="77" selection-end-line="77" />
           </first_editor>
           <second_editor />
         </state>
