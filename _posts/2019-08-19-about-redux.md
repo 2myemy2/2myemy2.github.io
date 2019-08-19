@@ -84,5 +84,22 @@ export default connect(
       {% endhighlight %}
       </div>
 
+내가 하는 프로젝트에서 connect를 예로 들자면, 다음과 같다.
+
+위의 코드는 Component가 아닌 Container라는 곳에 정리해둔다.
+
+<h2>Container</h2><br>
+>수많은 Component가 리스트 형식으로 모여있는데 가운데 각 요소의 Component를 각각 연결하면 수습이 안 되므로, 대표적인 자식요소를 안고 있는 하나의 부모Component가 connect 되는 경우
+
+{% highlight javascript %}
+<UsersList>
+    <User />
+    <User />
+    <User />
+    <User />
+</UsersList>
+{% endhighlight %}
+
+>이 대표로서 connect될 부모 Component를 Container라고 부릅니다. Container는 가독성을 높이기 위해, Component와는 디렉토리를 따로 나누는 경우가 많습니다.
 
 
