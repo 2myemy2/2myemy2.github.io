@@ -21,7 +21,8 @@ React의 길은 험난했다
 <h2>Redux의 기본 플로우</h2><br>
 ![reduxflow](https://user-images.githubusercontent.com/49894861/63241570-25b15000-c28f-11e9-8120-5754a1e922a5.png)
 
-Redux의 기본 플로우는 vuex와 아주 유사하다
+Redux의 기본 플로우는 vuex와 아주 유사하다.
+
 action, store, reducer 이 세가지 개념을 먼저 생각해보자.
 
 
@@ -43,13 +44,45 @@ store는 상태들이 저장된다.
 
 
 
-
-자 이제 기본 개념을 살펴보았으니, 조금 더 어려운 (vuex와는 다른) 내용을 알아보자
-
-<h2>Connect<h2><br>
+<h2>Connect</h2><br>
 vue에서는 state와 mutation, 그리고 action만 있으면 되었던 것 같은데,
 
 redux엔 새로운 것이 등장했다.
+
+connect라는 함수를 쓰면, 리덕스 패턴 사용할 수 있는 컴포넌트를 생성할 수 있다.
+
+즉, redux에 연결하고 싶은 컴포넌트를 connect함수의 인수로 전달하면 된다.
+
+
+<div>
+{% highlight javascript %}
+import {
+  startCall,
+  rejectCall,
+  setToken
+} from '../actions';
+
+const mapStateToProps = state => ({
+  applicantName: `${state.applicant.name}`,
+  loggedIn: state.auth.authenticated,
+  callWindow: state.callWindow,
+  loader: state.loader,
+  modal: state.modal,
+});
+
+const actionCreators = {
+  rejectCall,
+  startCall,
+  setToken
+};
+
+export default connect(
+  mapStateToProps,
+  actionCreators,
+)(withRouter(App));
+
+      {% endhighlight %}
+      </div>
 
 
 
