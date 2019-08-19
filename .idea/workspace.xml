@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/my-travels.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/my-travels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-19-about-redux.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-19-about-redux.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-about-redux.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="260">
-                <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+              <first_editor relative-caret-position="200">
+                <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -153,8 +152,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2629" />
-    <option name="y" value="176" />
+    <option name="x" value="2257" />
+    <option name="y" value="119" />
     <option name="width" value="1717" />
     <option name="height" value="1080" />
   </component>
@@ -239,12 +238,12 @@
       <workItem from="1565930908252" duration="1152000" />
       <workItem from="1565933093818" duration="2447000" />
       <workItem from="1566169673153" duration="1004000" />
-      <workItem from="1566192871865" duration="239000" />
+      <workItem from="1566192871865" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20048000" />
+    <option name="totallyTimeSpent" value="20285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,8 +367,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-about-redux.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="260">
-            <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <first_editor relative-caret-position="200">
+            <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
