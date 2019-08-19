@@ -21,3 +21,6 @@ React의 길은 험난했다
 
 <h3>Redux의 기본 플로우</h3><br>
 ![reduxflow](https://user-images.githubusercontent.com/49894861/63241570-25b15000-c28f-11e9-8120-5754a1e922a5.png)
+
+Redux의 기본 플로우는 vuex와 아주 유사하다
+
