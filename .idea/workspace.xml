@@ -56,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-about-redux.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="739">
-                <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+              <first_editor relative-caret-position="359">
+                <caret line="108" selection-start-line="108" selection-end-line="108" />
               </first_editor>
               <second_editor />
             </state>
@@ -237,12 +237,12 @@
       <workItem from="1565930908252" duration="1152000" />
       <workItem from="1565933093818" duration="2447000" />
       <workItem from="1566169673153" duration="1004000" />
-      <workItem from="1566192871865" duration="3116000" />
+      <workItem from="1566192871865" duration="4240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22925000" />
+    <option name="totallyTimeSpent" value="24049000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,8 +373,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-about-redux.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="739">
-            <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+          <first_editor relative-caret-position="359">
+            <caret line="108" selection-start-line="108" selection-end-line="108" />
           </first_editor>
           <second_editor />
         </state>
