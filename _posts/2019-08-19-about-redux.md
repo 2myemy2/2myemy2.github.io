@@ -6,7 +6,7 @@ categories: react redux
 
 
 >https://qiita.com/mpyw/items/a816c6380219b1d5a3bf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items 를 참고하였습니다.
->>https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6 포스팅을 인용하였습니다.
+>>https://medium.com/@ca3rot/%EC%95%84%EB%A7%88-%EC%9D%B4%EA%B2%8C-%EC%A0%9C%EC%9D%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%AC%EC%9A%B8%EA%B1%B8%EC%9A%94-react-redux-%ED%94%8C%EB%A1%9C%EC%9A%B0%EC%9D%98-%EC%9D%B4%ED%95%B4-1585e911a0a6 를 인용하였습니다.
 
 <h2>Redux란 무엇인가?</h2><br>
 vue를 이용한 대형 프로젝트를 진행했고, vuex를 자유자재로 다룰 줄 알게되었기 때문에,
@@ -91,7 +91,7 @@ export default combineReducers({
     notification: notificationReducer,
 })
 {% endhighlight %}
-대규모 개발에 Reducer를 미세하게 분할하는 경우 Redux에서 제공하는 ```combineReducers```함수를 이용하여 위와 같이 씁니다.
+대규모 개발에 Reducer를 미세하게 분할하는 경우 Redux에서 제공하는 ```combineReducers```함수를 이용하여 위와 같이 쓸 수 있다.
 
 <h3>Store</h3><br>
 store는 state들이 저장된다.
@@ -160,3 +160,10 @@ export default connect(
 >이 대표로서 connect될 부모 Component를 Container라고 부릅니다. Container는 가독성을 높이기 위해, Component와는 디렉토리를 따로 나누는 경우가 많습니다.
 
 
+
+
+
+
+뭔가 처음보는 개념도, 어려운 개념도 많아서 베끼기에 급급한 포스팅이 된 것 같다.
+
+조금더 연습해보고, 익힌 다음에 포스팅을 수정해야겠다. :(
