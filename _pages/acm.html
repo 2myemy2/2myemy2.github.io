@@ -19,7 +19,7 @@ author_profile: true
   <div>
     <p>BAEKJOON</p>
     <div id="section1" class="label">
-      <p><a>- 1000번</a></p>
+      <p><a>- 1000번 입출력</a></p>
     </div>
     <div id="section1b" class="elements">
       <div class="questions">
@@ -40,13 +40,79 @@ author_profile: true
   </div>
   <div>
     <div id="section2" class="label">
-      <p><a>- 1111번</a></p>
+      <p><a>- 11279번 최대 힙</a></p>
     </div>
     <div id="section2b" class="elements">
-      여기에 문제와 풀이
+      <div class="questions">
+        <img src="https://user-images.githubusercontent.com/49894861/63257914-c4e93e00-c2b5-11e9-8187-baefd6de860d.png" />
+      </div>
+      {% highlight cpp %}
+#include <cstdio>
+#include <queue>
+using namespace std;
+
+priority_queue<int> q;
+int main() {
+	int n, i, j, tmp;
+	scanf("%d", &n);
+
+	for (i = 0; i < n; i++) {
+		scanf("%d", &tmp);
+		if (tmp == 0) {
+			if (q.empty())
+				printf("0\n");
+			else {
+				printf("%d\n", q.top());
+				q.pop();
+			}
+		} 
+		else {
+			q.push(tmp);
+		}
+	}
+	return 0;
+}
+      {% endhighlight %}
     </div>
   </div>
+  <div>
+    <div id="section3" class="label">
+      <p><a>- 1927번 최소힙</a></p>
+    </div>
+    <div id="section3b" class="elements">
+      <div class="questions">
+        <img src="https://user-images.githubusercontent.com/49894861/63259179-aafd2a80-c2b8-11e9-8d38-b6c2a07f692d.png" />
+      </div>
+      {% highlight cpp %}
+#include <cstdio>
+#include <queue>
+using namespace std;
 
+priority_queue<int, vector<int>, greater<int>> q;
+int main() {
+	int n, i, j, tmp;
+	scanf("%d", &n);
+
+	for (i = 0; i < n; i++) {
+		scanf("%d", &tmp);
+		if (tmp == 0) {
+			if (q.empty())
+				printf("0\n");
+			else {
+				printf("%d\n", q.top());
+				q.pop();
+			}
+		} 
+		else {
+			q.push(tmp);
+		}
+	}
+	return 0;
+}
+      {% endhighlight %}
+    </div>
+  </div>
+	   
 <script type="text/javascript">
 var elements = document.getElementsByTagName("div");
 // 모든 영역 접기
