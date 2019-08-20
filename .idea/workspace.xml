@@ -14,11 +14,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/images/my.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_pages/my-profile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
@@ -53,12 +48,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-kotlin1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="859">
-                <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <first_editor relative-caret-position="399">
+                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,11 +61,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-first-post.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="540">
-                <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <first_editor relative-caret-position="80">
+                <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/_pages/acm.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="37" selection-end-column="24" />
+              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -143,12 +148,12 @@
         <option value="$PROJECT_DIR$/_posts/2019-08-15-about-postion.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-08-15-musical-hero.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" />
         <option value="$PROJECT_DIR$/_pages/my-travels.html" />
         <option value="$PROJECT_DIR$/_pages/acm.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-08-19-about-redux.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-19-kotlin1.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" />
       </list>
     </option>
   </component>
@@ -173,22 +178,12 @@
             <path>
               <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -240,12 +235,12 @@
       <workItem from="1565933093818" duration="2447000" />
       <workItem from="1566169673153" duration="1004000" />
       <workItem from="1566192871865" duration="4478000" />
-      <workItem from="1566272413024" duration="1461000" />
+      <workItem from="1566272413024" duration="1715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25748000" />
+    <option name="totallyTimeSpent" value="26002000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,6 +253,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="2544" y="189" width="1717" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.29263914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -291,14 +287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-first-post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -348,7 +336,7 @@
     <entry file="file://$PROJECT_DIR$/_pages/acm.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="37" selection-end-column="24" />
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -357,16 +345,6 @@
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="4" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="540">
-            <caret line="27" column="35" lean-forward="true" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -385,8 +363,26 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-kotlin1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="859">
-            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <first_editor relative-caret-position="399">
+            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-first-post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="80">
+            <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>
