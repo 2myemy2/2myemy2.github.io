@@ -1,7 +1,7 @@
 ---
 title: "Posts by Category"
 layout: categories
-permalink: /my-travels/
+permalink: /my-travels/test
 author_profile: true
 ---
 
