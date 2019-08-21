@@ -1,7 +1,7 @@
 ---
 title: "Netflix 애니메이션을 뿌수어보자!"
 date: 2019-08-21 18:26:28 -0400
-categories: netflix
+categories: 일상
 ---
 
 

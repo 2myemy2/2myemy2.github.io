@@ -1,7 +1,7 @@
 ---
 title: "First post!"
 date: 2019-03-13 08:26:28 -0400
-categories: first
+categories: 아무거나
 ---
 
 first post!!
