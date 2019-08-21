@@ -2,7 +2,7 @@ main:
   - title: "Profile"
     url: /my-profile/
   - title: "Travel Records"
-    url: /my-travels/
+    url: /categories/my-travels/
   - title: "Algorithm"
     url: /acm/
   - title: "categorrrr"
