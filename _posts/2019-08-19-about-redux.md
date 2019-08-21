@@ -1,7 +1,7 @@
 ---
 title: "Redux를 이해해봅시다"
 date: 2019-08-19 08:26:28 -0400
-categories: react
+categories: React
 ---
 
 

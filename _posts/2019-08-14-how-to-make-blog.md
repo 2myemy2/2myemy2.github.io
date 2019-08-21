@@ -1,7 +1,7 @@
 ---
 title: "Jekyll로 초간단! 블로그 만들기 (minimal mistakes)"
 date: 2019-03-13 08:26:28 -0400
-categories: 블로그 만들기
+categories: Blog
 ---
 
 <div>

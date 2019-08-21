@@ -1,7 +1,7 @@
 ---
 title: "Jekyll 블로그에 포스팅하기 (minimal mistakes)"
 date: 2019-03-15 08:26:28 -0400
-categories: 블로그 만들기
+categories: Blog
 ---
 
 오늘은 Jekyll 블로그에 포스팅하는 법!
