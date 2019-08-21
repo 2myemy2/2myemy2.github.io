@@ -135,6 +135,7 @@
       <find>favicon</find>
       <find>JPG</find>
       <find>2019 MY'S HOME. Powered by Jekyll &amp; Minimal Mistakes.</find>
+      <find>category_</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
