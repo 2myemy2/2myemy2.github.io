@@ -1,7 +1,7 @@
 ---
 title: "Paris"
 date: 2019-03-15 08:26:28 -0400
-categories: my-travels
+categories: travels
 ---
 
 
