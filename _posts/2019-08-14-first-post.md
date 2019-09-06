@@ -1,7 +1,7 @@
 ---
 title: "First post!"
 date: 2019-03-13 08:26:28 -0400
-categories: 아무거나
+categories: 주저리주저리
 ---
 
 first post!!
