@@ -4,6 +4,6 @@ main:
   - title: "Travel Records"
     url: /categories/travels/
   - title: "Algorithm"
-    url: /categories/acm/
+    url: /categories/algorithm/
   - title: "Post by categories"
     url: /categories/
