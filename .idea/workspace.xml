@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
-    </list>
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="123" selection-start-column="123" selection-end-column="123" />
+            <state relative-caret-position="20">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -300,12 +297,12 @@
       <workItem from="1568003733721" duration="158000" />
       <workItem from="1568004339293" duration="182000" />
       <workItem from="1568004559933" duration="723000" />
-      <workItem from="1568006154155" duration="54000" />
+      <workItem from="1568006154155" duration="305000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37188000" />
+    <option name="totallyTimeSpent" value="37439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,7 +314,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2094" y="209" width="1712" height="1080" extended-state="0" />
+    <frame x="2094" y="209" width="1712" height="1080" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.3739496" />
@@ -602,8 +599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="123" selection-start-column="123" selection-end-column="123" />
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
