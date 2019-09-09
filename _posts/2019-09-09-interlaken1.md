@@ -15,14 +15,6 @@ categories: travels
 
 
 
-![G0051808](https://user-images.githubusercontent.com/49894861/64508227-e028f580-d317-11e9-896a-f2626b5513b2.JPG)
-
-
-
-![G0061820](https://user-images.githubusercontent.com/49894861/64508228-e028f580-d317-11e9-8a11-d8c495542860.JPG)
-
-
-
 ![G0071827](https://user-images.githubusercontent.com/49894861/64508229-e028f580-d317-11e9-9f8f-a5e78e37eda7.JPG)
 
 
