@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-09-09-acm11.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head/custom.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head/custom.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +17,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-06-acm7.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="10" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-09-08-acm8.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="840">
-                <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+                <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -52,14 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="20">
-                <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="123" selection-start-column="123" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -188,6 +185,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-09-06-acm3.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-09-acm10.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-09-acm11.md" />
+        <option value="$PROJECT_DIR$/_includes/head/custom.html" />
       </list>
     </option>
   </component>
@@ -202,7 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +215,17 @@
             <path>
               <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="head" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2myemy.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2myemy.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -229,6 +237,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,12 +299,13 @@
       <workItem from="1567999067927" duration="791000" />
       <workItem from="1568003733721" duration="158000" />
       <workItem from="1568004339293" duration="182000" />
-      <workItem from="1568004559933" duration="633000" />
+      <workItem from="1568004559933" duration="723000" />
+      <workItem from="1568006154155" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37044000" />
+    <option name="totallyTimeSpent" value="37188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,10 +317,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2093" y="208" width="1712" height="1080" extended-state="0" />
+    <frame x="2094" y="209" width="1712" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.36914766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.3739496" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5005258" side_tool="true" weight="0.25792938" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,13 +357,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/my.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/category-archive.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-08-21-netflix-animation.md" />
@@ -514,7 +517,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="840">
-            <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+            <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="400">
+            <caret line="20" column="8" lean-forward="true" selection-end-line="66" />
           </first_editor>
           <second_editor />
         </state>
@@ -577,23 +590,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm10.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="400">
-            <caret line="20" column="8" lean-forward="true" selection-end-line="66" />
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="20">
-            <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/_includes/head/custom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="123" selection-start-column="123" selection-end-column="123" />
         </state>
       </provider>
     </entry>
