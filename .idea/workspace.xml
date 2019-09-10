@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-bern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-fussen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-harder-kulm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-interlaken2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-zermatt2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-10-zurich.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-21-paris.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-paris.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-interlaken1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-interlaken1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-london.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-london.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-salzburg.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-salzburg.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-zermatt.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-zermatt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-10-praha.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-praha.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,21 +28,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-interlaken1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="360">
-                <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-interlaken1.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
               <first_editor>
                 <caret selection-end-line="4" selection-end-column="3" />
               </first_editor>
@@ -38,11 +40,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-london.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-salzburg.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="780">
-                <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,7 +52,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-08-21-paris.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zermatt.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="4" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-bern.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor>
@@ -62,11 +76,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-salzburg.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zurich.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="620">
-                <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <first_editor relative-caret-position="700">
+                <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-praha.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="40">
+                <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-harder-kulm.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="4" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-interlaken2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="320">
+                <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,11 +124,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-zermatt.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-fussen.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="685">
-                <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <first_editor relative-caret-position="340">
+                <caret line="17" selection-start-line="17" selection-end-line="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,46 +136,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-06-acm2.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zermatt2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="9" selection-start-line="9" selection-end-line="35" selection-end-column="18" />
+              <first_editor relative-caret-position="420">
+                <caret line="21" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-06-acm3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="380">
-                <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-08-19-about-redux.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/acm.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -186,17 +203,32 @@
         <option value="$PROJECT_DIR$/_posts/2019-09-09-acm11.md" />
         <option value="$PROJECT_DIR$/_includes/head/custom.html" />
         <option value="$PROJECT_DIR$/_posts/2019-08-21-paris.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-09-09-london.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-09-interlaken1.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-09-09-salzburg.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-10-praha.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-09-zermatt.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-10-bern.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-09-london.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-09-salzburg.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-10-zurich.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-paris.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-interlaken1.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-london.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-salzburg.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-zermatt.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-bern.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-praha.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-harder-kulm.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-zurich.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-zermatt2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-interlaken2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-10-fussen.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2087" />
-    <option name="y" value="197" />
-    <option name="width" value="1712" />
+    <option name="x" value="2124" />
+    <option name="y" value="336" />
+    <option name="width" value="1705" />
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
@@ -204,7 +236,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -247,6 +278,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,11 +346,12 @@
       <workItem from="1568011384719" duration="140000" />
       <workItem from="1568011672498" duration="792000" />
       <workItem from="1568012834581" duration="1710000" />
+      <workItem from="1568072174807" duration="3945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40319000" />
+    <option name="totallyTimeSpent" value="44264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,14 +363,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2087" y="197" width="1712" height="1080" extended-state="1" />
+    <frame x="2166" y="742" width="1705" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.39315727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.4002411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5005258" side_tool="true" weight="0.25792938" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -563,6 +596,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-09-06-acm2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -577,7 +620,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="380">
-            <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           </first_editor>
           <second_editor />
         </state>
@@ -596,31 +639,51 @@
     <entry file="file://$PROJECT_DIR$/_pages/acm.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-london.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="780">
-            <caret line="39" column="14" lean-forward="true" selection-start-line="39" selection-start-column="14" selection-end-line="39" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-acm11.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-paris.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <first_editor relative-caret-position="180">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-08-21-paris.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-london.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-salzburg.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-praha.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="31" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-bern.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor>
@@ -630,9 +693,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-interlaken1.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zurich.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="700">
+            <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zermatt2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-interlaken2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="320">
+            <caret line="16" column="88" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-harder-kulm.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
           <first_editor>
             <caret selection-end-line="4" selection-end-column="3" />
           </first_editor>
@@ -640,21 +733,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-salzburg.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-interlaken1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="620">
-            <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <first_editor>
+            <caret selection-end-line="4" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-09-zermatt.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-zermatt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="685">
-            <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <first_editor>
+            <caret selection-end-line="4" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-fussen.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="340">
+            <caret line="17" selection-start-line="17" selection-end-line="17" />
           </first_editor>
           <second_editor />
         </state>
