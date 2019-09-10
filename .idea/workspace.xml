@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-budapast.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-10-budapast.md" afterDir="false" />
-    </list>
+    <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +113,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-budapast.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="320">
-                <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <first_editor relative-caret-position="400">
+                <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               </first_editor>
               <second_editor />
             </state>
@@ -214,9 +212,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1819" />
-    <option name="y" value="324" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="2059" />
+    <option name="y" value="249" />
     <option name="width" value="1705" />
     <option name="height" value="1080" />
   </component>
@@ -335,12 +333,12 @@
       <workItem from="1568011384719" duration="140000" />
       <workItem from="1568011672498" duration="792000" />
       <workItem from="1568012834581" duration="1710000" />
-      <workItem from="1568072174807" duration="4156000" />
+      <workItem from="1568072174807" duration="4907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44475000" />
+    <option name="totallyTimeSpent" value="45226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,8 +753,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-10-budapast.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="320">
-            <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <first_editor relative-caret-position="400">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           </first_editor>
           <second_editor />
         </state>
