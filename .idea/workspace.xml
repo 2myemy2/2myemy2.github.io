@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-09-10-acm12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-09-10-acm13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-09-10-acm14.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,24 +64,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-09-10-acm13.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state split_layout="FIRST">
+              <first_editor>
+                <caret selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-06-acm2.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-09-10-acm14.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="9" selection-start-line="9" selection-end-line="35" selection-end-column="18" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="340">
+                <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -162,7 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/category-archive.md" />
         <option value="$PROJECT_DIR$/_pages/categories.html" />
         <option value="$PROJECT_DIR$/_posts/paris.md" />
         <option value="$PROJECT_DIR$/_pages/my-travels.html" />
@@ -211,12 +209,13 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-10-fussen.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-10-budapast.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-19-2019pycon.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-09-10-acm13.md" />
         <option value="$PROJECT_DIR$/_posts/2019-09-10-acm12.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-10-acm13.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-09-10-acm14.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="2517" />
     <option name="y" value="269" />
     <option name="width" value="1705" />
@@ -335,12 +334,12 @@
       <workItem from="1568072174807" duration="4907000" />
       <workItem from="1568086966958" duration="629000" />
       <workItem from="1568156264684" duration="4000" />
-      <workItem from="1568158332406" duration="812000" />
+      <workItem from="1568158332406" duration="1665000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46671000" />
+    <option name="totallyTimeSpent" value="47524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -352,7 +351,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2517" y="269" width="1705" height="1080" extended-state="0" />
+    <frame x="2517" y="269" width="1705" height="1080" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49947423" visible="true" weight="0.41651598" />
@@ -774,9 +773,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-09-10-acm13.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        <state split_layout="FIRST">
+          <first_editor>
+            <caret selection-end-line="54" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-10-acm14.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="340">
+            <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
