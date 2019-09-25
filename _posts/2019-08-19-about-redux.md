@@ -1,6 +1,6 @@
 ---
 title: "Redux를 이해해봅시다"
-date: 2019-08-19 08:26:28 -0400
+date: 2019-06-19 08:26:28 -0400
 categories: React
 ---
 
@@ -76,13 +76,13 @@ reducer의 예제는 위와 같다.
 import { combineReducers } from 'redux';
 ​
 const sessionReducer = (state = {loggedIn: false, user: null}, payload) => {
-    /* 省略 */
+    /* blahblah */
 };
 const timelineReducer = (state = {type: "home", statuses: []}, payload) => {
-    /* 省略 */
+    /* blahblah */
 };
 const notificationReducer = (state = [], payload) => {
-    /* 省略 */
+    /* blahblah */
 };
 ​
 export default combineReducers({
@@ -93,13 +93,9 @@ export default combineReducers({
 {% endhighlight %}
 대규모 개발에 Reducer를 미세하게 분할하는 경우 Redux에서 제공하는 ```combineReducers```함수를 이용하여 위와 같이 쓸 수 있다.
 
-<h3>Store</h3><br>
-store는 state들이 저장된다.
-
 
 
 <h2>Connect</h2><br>
-vue에서는 state와 mutation, 그리고 action만 있으면 되었던 것 같은데,
 
 redux엔 새로운 것이 등장했다.
 
