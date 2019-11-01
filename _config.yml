@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MY's Home"
+title                    : "MY secret Home"
 title_separator          : "-"
-subtitle                 : This is MyoungYeon's Home
+subtitle                 : 왜 그런 날 있잖아. 숨고싶은 날.
 name                     : "MY'S HOME"
 description              : "This is MyoungYeon's home"
 url                      : "https://2myemy.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
