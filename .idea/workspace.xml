@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21bf29e9-5d71-4946-8c27-3140c8f6042c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/acm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/travels.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-bern.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-budapast.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-fussen.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-harder-kulm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-interlaken1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-interlaken2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-london.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-paris.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-pooh.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-praha.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-salzburg.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-zermatt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-zermatt2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-10-zurich.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-14-first-post.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-15-about-postion.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-19-2019pycon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm3.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm4.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm5.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm6.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-acm7.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-06-anything.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-08-acm8.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-08-acm9.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-acm10.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-09-acm11.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-10-acm12.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-10-acm13.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-10-acm14.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-11-acm15.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-11-acm16.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-11-acm17.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-11-01-post1.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,11 +47,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="180">
+              <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-11-01-post1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -139,7 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-08-21-netflix-animation.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-14-how-to-make-blog.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-15-about-postion.md" />
         <option value="$PROJECT_DIR$/_posts/2019-08-19-kotlin1.md" />
@@ -190,6 +161,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-08-19-about-redux.md" />
         <option value="$PROJECT_DIR$/_data/navigation.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_posts/2019-11-01-post1.md" />
       </list>
     </option>
   </component>
@@ -216,6 +188,11 @@
               <item name="2myemy2.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="2myemy2.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2myemy2.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2myemy2.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,12 +271,12 @@
       <workItem from="1568158332406" duration="1665000" />
       <workItem from="1568678027807" duration="1154000" />
       <workItem from="1569373509529" duration="209000" />
-      <workItem from="1572586454080" duration="136000" />
+      <workItem from="1572586454080" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49023000" />
+    <option name="totallyTimeSpent" value="49124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -755,8 +732,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="180">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-11-01-post1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
